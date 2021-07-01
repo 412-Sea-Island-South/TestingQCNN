@@ -1,0 +1,13 @@
+{
+  "id": "6085b45fdcde67d537b3ce98",
+  "userId": "5f9f73deb6827d001aa97fd0",
+  "name": "Bell State",
+  "status": "COMPLETED",
+  "creationDate": "2021-04-25T18:26:38.836Z",
+  "endDate": "2021-04-25T18:26:44.781Z",
+  "backend": {
+    "id": "5ae875670f020500393162ad",
+    "name": "ibmq_qasm_simulator"
+  },
+  "tags": []
+}
