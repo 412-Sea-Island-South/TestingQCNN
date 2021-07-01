@@ -1,0 +1,13 @@
+{
+  "id": "60dd418effeef719968b35d5",
+  "userId": "5f9f73deb6827d001aa97fd0",
+  "name": "GHZ State",
+  "status": "COMPLETED",
+  "creationDate": "2021-07-01T04:16:14.082Z",
+  "endDate": "2021-07-01T04:16:24.391Z",
+  "backend": {
+    "id": "60103adeca625b70a5b16948",
+    "name": "ibmq_belem"
+  },
+  "tags": []
+}
